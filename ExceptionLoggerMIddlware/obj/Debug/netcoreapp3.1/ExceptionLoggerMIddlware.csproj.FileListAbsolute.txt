@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\bin\Debug\netcoreapp3.1\ExceptionLoggerMIddlware.deps.json
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\bin\Debug\netcoreapp3.1\ExceptionLoggerMIddlware.dll
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\bin\Debug\netcoreapp3.1\ExceptionLoggerMIddlware.pdb
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\obj\Debug\netcoreapp3.1\ExceptionLoggerMIddlware.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\obj\Debug\netcoreapp3.1\ExceptionLoggerMIddlware.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\obj\Debug\netcoreapp3.1\ExceptionLoggerMIddlware.AssemblyInfo.cs
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\obj\Debug\netcoreapp3.1\ExceptionLoggerMIddlware.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\obj\Debug\netcoreapp3.1\ExceptionLoggerMIddlware.dll
+C:\Users\User\source\repos\PersonTbcProject\ExceptionLoggerMIddlware\obj\Debug\netcoreapp3.1\ExceptionLoggerMIddlware.pdb

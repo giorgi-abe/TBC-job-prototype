@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\PersonTbcProject\ApplicationCustomExceptions\bin\Debug\netcoreapp3.1\ApplicationCustomExceptions.deps.json
+C:\Users\User\source\repos\PersonTbcProject\ApplicationCustomExceptions\bin\Debug\netcoreapp3.1\ApplicationCustomExceptions.dll
+C:\Users\User\source\repos\PersonTbcProject\ApplicationCustomExceptions\bin\Debug\netcoreapp3.1\ApplicationCustomExceptions.pdb
+C:\Users\User\source\repos\PersonTbcProject\ApplicationCustomExceptions\obj\Debug\netcoreapp3.1\ApplicationCustomExceptions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PersonTbcProject\ApplicationCustomExceptions\obj\Debug\netcoreapp3.1\ApplicationCustomExceptions.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PersonTbcProject\ApplicationCustomExceptions\obj\Debug\netcoreapp3.1\ApplicationCustomExceptions.AssemblyInfo.cs
+C:\Users\User\source\repos\PersonTbcProject\ApplicationCustomExceptions\obj\Debug\netcoreapp3.1\ApplicationCustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PersonTbcProject\ApplicationCustomExceptions\obj\Debug\netcoreapp3.1\ApplicationCustomExceptions.dll
+C:\Users\User\source\repos\PersonTbcProject\ApplicationCustomExceptions\obj\Debug\netcoreapp3.1\ApplicationCustomExceptions.pdb

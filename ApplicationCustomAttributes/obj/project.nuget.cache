@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vill87p47zpWED+dhmQ2ELXWZi7furHbJI+TS/V7stfqa+0oJItM+6dw8xyJTOrCfAYN82Zgyh/19wnyAnnPcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\PersonTbcProject\\ApplicationCustomAttributes\\ApplicationCustomAttributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
